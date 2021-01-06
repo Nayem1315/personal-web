@@ -15,7 +15,7 @@ h2{
     color:orange;
 }
 .half-width{
-    width: 40%;
+    width: 35%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
@@ -62,7 +62,7 @@ section{
     margin: auto;
     background-size: cover;
     padding: 50px;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 .chat-section h1{
     font-size: 40px;
@@ -83,17 +83,11 @@ section{
 }
 .btn{
     display: inline-block;
-    margin-left: 80%;
-    margin-bottom: 2%;
-    line-height: 2.2;
+    margin-left: 55%;
+    margin-bottom: 1%;
+    line-height: 1.8;
 }
 .stay-connected{
     text-align: center;
-    color:midnightblue;
-}
-.stay{
-    color:gray;
-}
-.bold{
-    font-size: 80px;
+    margin-top: 70px;
 }
